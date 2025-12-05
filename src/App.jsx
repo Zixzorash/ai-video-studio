@@ -4,8 +4,8 @@ import { Upload, Film, Wand2, Scissors, Download, Play, Settings, CheckCircle, F
 // --- CONFIGURATION ---
 // ใส่ API KEY ของคุณที่นี่เมื่อนำไป deploy จริง
 const CONFIG = {
-  TOPAZ_API_KEY: "YOUR_TOPAZ_API_KEY_HERE", 
-  ECHOWAVE_API_KEY: "YOUR_ECHOWAVE_API_KEY_HERE",
+  TOPAZ_API_KEY: "3f5f73b8-538e-43ff-8f77-ecb322bc4a16", 
+  ECHOWAVE_API_KEY: "7247ea8228f2a094c21e42226cb12cb2d3a0b626d88bea0ccf418439d0af4cac",
   TOPAZ_ENDPOINT: "https://api.topazlabs.com/v1/video/enhance",
   ECHOWAVE_ENDPOINT: "https://api.echowave.io/v1/render"
 };
